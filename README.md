@@ -1,4 +1,3 @@
-# VisionLanguageQA
 
 # Visual Question Answering (VQA) Model
 
